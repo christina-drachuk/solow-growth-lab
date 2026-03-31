@@ -67,7 +67,7 @@ with st.expander("View the Math Behind the Model"):
     st.latex(r'''
         k^* = \left( \frac{s}{n + g + \delta} \right)^{\frac{1}{1-\alpha}}
     ''')
-    st.write("This equation represents the steady-state capital per effective worker...")
+    st.write("This equation represents the steady-state capital per effective worker.")
 
 st.divider()
 st.subheader("🤖 AI Economic Analyst")
