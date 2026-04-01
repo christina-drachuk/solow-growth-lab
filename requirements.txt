@@ -6,3 +6,6 @@ plotly
 python-dotenv
 google-generativeai
 numpy
+wbgapi
+pytest
+pytest-cov
